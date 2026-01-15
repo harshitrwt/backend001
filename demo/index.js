@@ -5,7 +5,7 @@
 // const PORT = process.env.PORT || 3000;
 // const users = [];
 
-// app.use(express.json());
+// app.use(express.json());  //for post request body parsing
 
 // app.get('/', (req, res) =>{
 //     res.send("Hello from server!")
